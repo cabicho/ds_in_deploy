@@ -1,0 +1,10 @@
+version: "3"
+services:
+  jupyter:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes: 
+      - /home/cab/ds_in_deploy/:/home/jovyan/work/ds
+    ports:
+      - "8889:8888" 
