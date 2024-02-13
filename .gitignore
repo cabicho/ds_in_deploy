@@ -1,0 +1,5 @@
+*.csv
+
+#m03/.ipynb_checkpoints/m02_v03_store_sales_prediction-checkpoint.ipynb
+*/.ipynb_checkpoints/*.ipynb
+.ipynb_checkpoints/
