@@ -1,0 +1,10 @@
+#RUN pip install bs4 pip freeze | grep bs4
+bs4==0.0.2
+#RUN pip install plotly==5.18.0 pip freeze | grep inflec plotly
+plotly==5.18.0
+#RUN pip install inflection==0.5.1 #!pip freeze | grep inflec
+inflection #==0.5.1
+
+#pip install 
+#import-ipynb ##!pip freeze | grep import-ipynb
+import-ipynb==0.1.4
