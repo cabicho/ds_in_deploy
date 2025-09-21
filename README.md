@@ -24,8 +24,8 @@
 Projeto de previsão de faturamento para a rede Rossmann, que opera mais de 3.000 farmácias em 7 países europeus. A solução utiliza machine learning para prever vendas das próximas 6 semanas, auxiliando na decisão de investimentos em reformas das lojas.
 
 **🔗 Links Importantes:**
-- 🚀 [Aplicação em Produção](https://share.streamlit.io/your-repo/rossmann-app)
-- 🔌 [API de Predições](https://rossman.onrender.com)
+- 🚀 [Aplicação em Produção](https://web.telegram.org/k/#@RossmannPredictCabicho_bot)
+- 🔌 [API de Predições](https://rossman-sales-prediction-telegram-api.onrender.com)
 - 📖 [Artigo no Medium](https://medium.com/@your-article)
 - 💾 [Dataset Original](https://www.kaggle.com/competitions/rossmann-store-sales)
 
@@ -62,4 +62,3 @@ graph TD
     H -->|Melhorias| B
 
 
-    
